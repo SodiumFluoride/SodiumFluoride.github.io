@@ -9,3 +9,10 @@ a{
     font-size: 50px;
     display: inline-block
 }
+
+iframe{
+    font-family: "Comic Sans MS";
+    color: rgb(209, 47, 15); 
+    font-size: 50px;
+    display: inline-block
+}
