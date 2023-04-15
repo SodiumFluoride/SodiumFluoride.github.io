@@ -39,7 +39,7 @@ iframe{
   
   
   /* yoinked from https://gscode.in/10-animated-rainbow-text-effects/ */
-  .rainbow-text {
+  h3 {
     /* Create a conic gradient. */
     /* Double percentages to avoid blur (#000 10%, #fff 10%, #fff 20%, ...). */
     background: #CA4246;
@@ -73,7 +73,7 @@ iframe{
   }
   
   /* Add animation on hover. */
-  .rainbow-text:hover {
+  h3:hover {
     animation: rainbow-text-animation 0.5s ease forwards;
   }
   
