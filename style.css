@@ -1,8 +1,16 @@
+
 h2{
-    font-family: "Comic Sans MS";
-    color: rgb(209, 47, 15); 
-    font-size: 50px;
-    display: block
+  font-family: "Comic Sans MS";
+  color: rgb(209, 47, 15); 
+  font-size: 50px;
+  display: block
+}
+h5{
+  font-family: "Comic Sans MS";
+  color: rgb(209, 47, 15); 
+  font-size: 50px;
+  display: inline
+}
 }
 h1{
     display: block;
@@ -10,6 +18,7 @@ h1{
 a{
   color:red;
   display: block;
+  font-size: 50;
 }
 .gross{
   font: size 7px;
