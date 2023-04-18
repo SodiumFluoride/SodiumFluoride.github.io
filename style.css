@@ -2,16 +2,25 @@ h2{
     font-family: "Comic Sans MS";
     color: rgb(209, 47, 15); 
     font-size: 50px;
-    display: inline-block
+    display: block
 }
 h1{
-    display: block
+    display: block;
 }
 a{
+  color:red;
+  display: block;
+}
+.gross{
+  font: size 7px;
+  color:gray;
+  display:block;
+}
+.portals{
     font-family: "Comic Sans MS";
-    color: rgb(209, 47, 15); 
+    color: rgb(255, 42, 0); 
     font-size: 50px;
-    display: block
+    display: block;
 }
 
 iframe{
@@ -37,7 +46,12 @@ iframe{
     margin-top: calc(50vh - 1em);
   }
   
-  
+
+  h4{
+    font-size:2em;
+    display:block
+  }
+
   /* yoinked from https://gscode.in/10-animated-rainbow-text-effects/ */
   h3 {
     /* Create a conic gradient. */
